@@ -31,7 +31,6 @@ AdaptLearn is a learning platform powered by artificial intelligence that genera
 - **Alejandro Gonzalo Millon**
 - **Daniel Del Molino**
 - **Alejandro Blanco**
-- **Raul**
 
 💡 *Thank you for trying AdaptLearn!* 🧠✨
 
